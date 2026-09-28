@@ -1,0 +1,12 @@
+.conda/
+env/
+venv/
+__pycache__/
+*.pyc
+
+data/
+models/
+*.pkl
+*.h5
+
+.vscode/
